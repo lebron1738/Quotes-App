@@ -1,28 +1,64 @@
 {
   "quotes": [
     {
-      "text": "The only way to do great work is to love what you do.",
-      "author": "- Steve Jobs"
+      "text": "The only way to achieve the impossible is to believe it is possible.",
+      "author": "- Charles Kingsleigh"
     },
     {
-      "text": "Success is not the key to happiness. Happiness is the key to success.",
+      "text": "Progress is impossible without change, and those who cannot change their minds cannot change anything.",
+      "author": "- George Bernard Shaw"
+    },
+    {
+      "text": "Success is the sum of small efforts, repeated day in and day out.",
+      "author": "- Robert Collier"
+    },
+    {
+      "text": "The true measure of progress is not in how far you’ve come, but in how far you’re willing to go.",
+      "author": "- Anonymous"
+    },
+    {
+      "text": "Great things are not done by impulse, but by a series of small things brought together.",
+      "author": "- Vincent Van Gogh"
+    },
+    {
+      "text": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
       "author": "- Albert Schweitzer"
     },
     {
-      "text": "Don't watch the clock; do what it does. Keep going.",
-      "author": "- Sam Levenson"
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "- Zig Ziglar"
     },
     {
-      "text": "You must be the change you wish to see in the world.",
-      "author": "- Mahatma Gandhi"
+      "text": "Change is inevitable, but progress is optional.",
+      "author": "- Tony Robbins"
     },
     {
-      "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
-      "author": "- Ralph Waldo Emerson"
+      "text": "Life isn’t about finding yourself. Life is about creating yourself.",
+      "author": "- George Bernard Shaw"
     },
     {
-      "text": "Success usually comes to those who are too busy to be looking for it.",
-      "author": "- Henry David Thoreau"
+      "text": "The path to progress is often slow, but it is through consistent steps forward that we achieve our greatest accomplishments.",
+      "author": "- Anonymous"
+    },
+    {
+      "text": "The best way to predict the future is to create it.",
+      "author": "- Abraham Lincoln"
+    },
+    {
+      "text": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+      "author": "- William Butler Yeats"
+    },
+    {
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "- John Lennon"
+    },
+    {
+      "text": "We cannot change the cards we are dealt, just how we play the hand.",
+      "author": "- Randy Pausch"
+    },
+    {
+      "text": "Progress is the real challenge. The way forward is never easy, but it is always worth it.",
+      "author": "- Anonymous"
     }
   ]
 }
